@@ -489,5 +489,4 @@ reports so reviewers can see the effect on classification quality.
 <div align="center">
 
 Thanks for stopping by <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="32" height="32" />
-
 </div>
