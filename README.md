@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="asset/dashboard02.png" alt="Live SOC dashboard with real-time AI forensic reports" />
+  <img src="asset/anomaly-engine.png" alt="Live SOC dashboard with real-time AI forensic reports" />
 </p>
 
 ## Overview
