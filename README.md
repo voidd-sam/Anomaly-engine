@@ -2,7 +2,7 @@
 
 
 
-<img src="asset/anomaly-engine-logo.png" alt="anomaly-engine-banner" width="420">
+<img src="asset/anomaly-engine-logo.png" alt="anomaly-engine-banner" width="200">
 
 
 
