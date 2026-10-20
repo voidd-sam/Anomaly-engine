@@ -1,6 +1,10 @@
 <div align="center">
 
+
+
 <img src="assets/anomaly-engine-banner.png" alt="anomaly-engine-banner" width="420">
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-KRaft_mode-231F20?logo=apachekafka&logoColor=white)
